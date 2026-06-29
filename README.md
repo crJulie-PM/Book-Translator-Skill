@@ -14,14 +14,12 @@
 ### 安装步骤
  **克隆仓库**
     ```bash
-    git clone https://github.com/你的用户名/book-translator-skill.git
+    git clone https://github.com/crJulie-PM/book-translator-skill.git
     cd book-translator-skill
     **安装依赖**
     pip install -r requirements.txt
     
 #### 使用方法
-```markdown
-## 🚀 使用方法
 
 1.  **准备文件**：将你的英文电子书转换为 `.txt` 格式，放入项目文件夹。
 2.  **设置API Key**：在终端中设置环境变量（推荐，更安全）。
