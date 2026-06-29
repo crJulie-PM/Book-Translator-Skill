@@ -16,6 +16,7 @@
     ```bash
     git clone https://github.com/crJulie-PM/book-translator-skill.git
     cd book-translator-skill
+  
     **安装依赖**
     pip install -r requirements.txt
     
