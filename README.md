@@ -48,7 +48,7 @@ deepseek-translatebook.py
 | `CHUNK_SIZE` | 每段翻译的最大字符数 | `1500` |
 | `DEEPSEEK_MODEL` | 使用的DeepSeek模型 | `"deepseek-chat"` |
 
-## ❓ 常见问题
+** ❓ 常见问题**
 **Q: 如何将 EPUB/MOBI 格式转换为 TXT？**
 A: 推荐使用免费工具 [Calibre](https://calibre-ebook.com/)。安装后，在终端执行：
 ```bash
